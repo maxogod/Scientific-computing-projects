@@ -54,6 +54,3 @@ def arithmetic_arranger(problems, solve=False):
   else:
     arranged_problems += f'{frst_line}\n{scnd_line}\n{dashes_line}'
   return arranged_problems
-
-print(arithmetic_arranger(['44 + 815', '909 - 2', '45 + 43', '123 + 49',
-          '888 + 40', '653 + 87']))
