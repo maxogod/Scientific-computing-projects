@@ -1,4 +1,8 @@
 def arithmetic_arranger(problems, solve=False):
+  """
+  recieves 2 arguments (list of strings, bool)
+  eg.  arithmetic_arranger(["32 + 8", "1 - 3801", "9999 + 9999", "523 - 49"], True)
+  """
   
   if len(problems) > 5:
     return 'Error: Too many problems.'
