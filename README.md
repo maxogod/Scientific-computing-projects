@@ -8,6 +8,7 @@
       From coolest to cooln't xD
     <ol type="I">
       <li>Polygon_area</li>
+      <li>Probability_calculator</li>
       <li>Budget_app</li>
       <li>Time_calculator</li>
       <li>Arithmetic_formater</li>
