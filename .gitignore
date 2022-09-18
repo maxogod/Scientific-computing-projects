@@ -1,5 +1,4 @@
 tests.py
-budget-app/__pycache__
 budget-app/main.py
 budget-app/test_module.py
 polygon_area/test_module.py
