@@ -3,3 +3,5 @@ budget-app/main.py
 budget-app/test_module.py
 polygon_area/test_module.py
 polygon_area/main.py
+probability_calculator/main.py
+probability_calculator/test_module.py
